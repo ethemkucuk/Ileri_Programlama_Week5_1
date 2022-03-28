@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\bin\Debug\Textbox_Kontrolü.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\bin\Debug\Textbox_Kontrolü.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\bin\Debug\Textbox_Kontrolü.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\obj\Debug\Textbox_Kontrolü.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\obj\Debug\Textbox_Kontrolü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\obj\Debug\Textbox_Kontrolü.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\obj\Debug\Textbox_Kontrolü.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\obj\Debug\Textbox_Kontrolü.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\obj\Debug\Textbox_Kontrolü.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\obj\Debug\Textbox_Kontrolü.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Textbox_Kontrolü\obj\Debug\Textbox_Kontrolü.pdb
